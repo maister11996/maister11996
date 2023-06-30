@@ -1,5 +1,4 @@
 ### Full stack web/ blockchain developer
-https://dmytro-portfolio.netlify.app/
 
 I am a senior web, blockchain developer. As a Blockchain and Defi engineer, I have fully experienced CEX and DEX fields including the fork and implementation of various smart chains, and Defi protocols such as yearn.finance, Compound, Synthetix, Ampleforth, UntiAmpleforth, cVaults, Uniswap(v1, v2), Sushiswap, and Balancer. I can help you with the fields of blockchain such as cryptocurrency exchange, bitcoin trading bot, ICO, smart contract and erc20 token and DApp. My main focuses is implementing the client's idea and business success and software development include coding is the most important part of my life. I could handle all microservices to production for Landing/ICO/MVP/live stages and lead project/team, and I can put my experience and skill into your project design and development, and you will see a quality result in deadlines.
 
